@@ -1,6 +1,0 @@
-# Inputs from frontend
-encode image in base64 format
-
-{
-    "image": "encoded image data"
-}
